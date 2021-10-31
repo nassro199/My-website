@@ -1,0 +1,104 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-end;
+  background-color: #000000;
+}
+.home-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.home-text {
+  left: -653px;
+  color: #ffffff;
+  bottom: -505px;
+  position: absolute;
+  font-family: Arial;
+}
+.home-text01 {
+  font-family: Arial;
+}
+.home-text02 {
+  font-family: Arial;
+  text-transform: lowercase;
+}
+.home-icon {
+  width: 24px;
+  height: 24px;
+}
+.home-text03 {
+  top: 232px;
+  left: 404px;
+  color: #ffffff;
+  position: absolute;
+}
+.home-text04 {
+  top: 362px;
+  left: 634px;
+  color: #ffffff;
+  width: 451px;
+  height: 42px;
+  position: absolute;
+  font-family: Fira Sans;
+  text-transform: lowercase;
+}
+.home-image {
+  top: 302px;
+  left: 365px;
+  width: 191px;
+  height: 197px;
+  position: absolute;
+  object-fit: cover;
+}
+.home-link {
+  display: contents;
+}
+.home-discord {
+  top: 46px;
+  left: 24px;
+  width: 54px;
+  height: 55px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.home-text05 {
+  top: 304px;
+  color: #ffffff;
+  right: 3px;
+  width: 603px;
+  height: 94px;
+  position: absolute;
+}
+.home-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.home-icon4 {
+  width: 24px;
+  height: 24px;
+}
+.home-icon6 {
+  width: 24px;
+  height: 24px;
+}
+.home-link1 {
+  display: contents;
+}
+.home-image1 {
+  top: 112px;
+  left: -2px;
+  width: 100px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
